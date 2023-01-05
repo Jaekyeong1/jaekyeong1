@@ -21,10 +21,11 @@
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white)
-
-
- 
   
+   
+   
+   
+     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaekyeong1&theme=blue-green&show_icons=true)
   
   
