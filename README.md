@@ -2,7 +2,7 @@
 
  ![header](https://capsule-render.vercel.app/api?type=shark?&color=_)
  
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Tistory&link=https://jkadv.tistory.com/)](https://jkadv.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-the-badg&logo=Tistory&link=https://jkadv.tistory.com/)](https://jkadv.tistory.com/)
 
   # 👨‍💻 Skills
   ## Platforms & Languages
