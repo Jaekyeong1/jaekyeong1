@@ -26,11 +26,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white)
   
    
-   
-   
-     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaekyeong1&theme=blue-green&show_icons=true)
   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaekyeong1&show_icons=true&theme=blue-green)
   
 
  
